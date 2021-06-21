@@ -1,0 +1,2 @@
+# Aqui ficam todos os arquivos que não queremos subir pro container Docker
+node_modules

@@ -1,0 +1,44 @@
+:root {
+
+/* Colors: */
+--unnamed-color-ef9c4b: #EF9C4B;
+--unnamed-color-228a95: #228A95;
+--unnamed-color-ffffff: #FFFFFF;
+--unnamed-color-fd8030: #FD8030;
+--unnamed-color-187680: #187680;
+--unnamed-color-777777: #777777;
+--unnamed-color-bc3434: #BC3434;
+--unnamed-color-f8f8f8: #F8F8F8;
+
+/* Font/text values */
+--unnamed-font-family-flexo: Flexo;
+--unnamed-font-style-normal: normal;
+--unnamed-font-style-italic: italic;
+--unnamed-font-weight-bold: bold;
+--unnamed-font-weight-medium: medium;
+--unnamed-font-size-32: 32px;
+--unnamed-font-size-35: 35px;
+--unnamed-character-spacing-0: 0px;
+--unnamed-line-spacing-43: 43px;
+--unnamed-line-spacing-47: 47px;
+}
+
+/* Character Styles */
+.unnamed-character-style-1 {
+font-family: var(--unnamed-font-family-flexo);
+font-style: var(--unnamed-font-style-italic);
+font-weight: var(--unnamed-font-weight-medium);
+font-size: var(--unnamed-font-size-35);
+line-height: var(--unnamed-line-spacing-47);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-777777);
+}
+.unnamed-character-style-2 {
+font-family: var(--unnamed-font-family-flexo);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-bold);
+font-size: var(--unnamed-font-size-32);
+line-height: var(--unnamed-line-spacing-43);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-777777);
+}
